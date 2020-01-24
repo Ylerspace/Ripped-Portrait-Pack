@@ -1,2 +1,0 @@
-# Idkshit
-What Even
