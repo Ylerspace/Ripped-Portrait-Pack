@@ -3,13 +3,15 @@
 		"standard_male":[
 			"graphics/portraits/rpp_01.png",
 			"graphics/portraits/rpp_03.png",
+			"graphics/portraits/rpp_04.png",
 			"graphics/portraits/rpp_06.png",
 			"graphics/portraits/rpp_08.png",
 		],
-		"standard_female": [
+		"standard_female":[
 			"graphics/portraits/rpp_02.png",
 			"graphics/portraits/rpp_05.png",
 			"graphics/portraits/rpp_07.png",
+			"graphics/portraits/rpp_09.png",
 			"graphics/portraits/rpp_09.png",
 		],
 	},
