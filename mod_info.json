@@ -1,0 +1,8 @@
+{
+	"id":"rpp", # internal id
+	"name":"Ripped Portrait Pack", # displayed to the player
+	"author":"Ripper",
+	"version":"1.0",
+	"description":"Portrait pack containing characters/elements from some of my favorite science fiction.",
+	"gameVersion":"0.9.1a",
+}
